@@ -1,0 +1,7 @@
+{
+  "name": "geemail",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
